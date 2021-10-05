@@ -51,6 +51,8 @@
       "colors": ["white", "black"],
       "slug": "t-shirt-01",
       "size": ["s", "m", "l"],
+      "isNew": true,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -66,6 +68,8 @@
       "colors": ["white", "blue"],
       "slug": "t-shirt-02",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": true,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -81,6 +85,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "t-shirt-03",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -96,6 +102,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "t-shirt-04",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -111,6 +119,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "t-shirt-05",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -126,6 +136,8 @@
       "colors": ["white", "black"],
       "slug": "t-shirt-06",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -141,6 +153,8 @@
       "colors": ["white", "blue"],
       "slug": "t-shirt-07",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -156,6 +170,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "t-shirt-08",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -171,6 +187,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "t-shirt-09",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -186,6 +204,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "t-shirt-10",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -201,6 +221,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "shirt-01",
       "size": ["s", "m", "l"],
+      "isNew": true,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -216,6 +238,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "shirt-02",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": true,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -231,6 +255,8 @@
       "colors": ["white", "black"],
       "slug": "shirt-03",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -246,6 +272,8 @@
       "colors": ["white", "blue"],
       "slug": "shirt-04",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -261,6 +289,8 @@
       "colors": ["white", "black"],
       "slug": "shirt-05",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -276,6 +306,8 @@
       "colors": ["white"],
       "slug": "shirt-06",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -291,6 +323,8 @@
       "colors": ["black"],
       "slug": "shirt-07",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -306,6 +340,8 @@
       "colors": ["black", "blue"],
       "slug": "shirt-08",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -321,6 +357,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "shirt-09",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -336,6 +374,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "shirt-10",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -351,6 +391,8 @@
       "colors": ["black", "blue"],
       "slug": "jean-01",
       "size": ["s", "m", "l"],
+      "isNew": true,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -366,6 +408,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-02",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": true,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -381,6 +425,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-03",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -396,6 +442,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-04",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -411,6 +459,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-05",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -426,6 +476,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-06",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -441,6 +493,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-07",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -456,6 +510,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-08",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -471,6 +527,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-09",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": false,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690
@@ -486,6 +544,8 @@
       "colors": ["white", "black", "blue"],
       "slug": "jean-10",
       "size": ["s", "m", "l"],
+      "isNew": false,
+      "isPopular": true,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nam consectetur quam reiciendis error eum? Assumenda, esse id totam vitae culpa numquam quaerat cupiditate molestias aut libero error nemo odit reiciendis saepe quia sapiente qui facere provident, fuga ab quo? Totam magni quidem magnam, numquam cupiditate doloribus dolor tempora perspiciatis?",
       "createdAt": 1632749256690,
       "updateAt": 1632749256690

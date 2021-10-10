@@ -39,6 +39,23 @@
       "color": "blue"
     }
   ],
+  "size": [
+    {
+      "id": 1,
+      "display": "S",
+      "color": "s"
+    },
+    {
+      "id": 2,
+      "display": "M",
+      "color": "m"
+    },
+    {
+      "id": 3,
+      "display": "L",
+      "color": "l"
+    }
+  ],
   "products": [
     {
       "id": 1,
